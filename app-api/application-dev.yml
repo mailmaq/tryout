@@ -1,0 +1,9 @@
+server:
+  port: 0
+spring:
+  application:
+    name: APP-API
+    title: Media Development User Frontend.
+eureka:
+  instance:
+    prefer-ip-address: true
