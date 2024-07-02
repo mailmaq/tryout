@@ -1,0 +1,3 @@
+spring:
+   app:
+      title: Media Dev API Backend.

@@ -1,0 +1,3 @@
+spring:
+   app:
+      title: Media QA API Backend.
