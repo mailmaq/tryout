@@ -2,8 +2,8 @@ server:
   port: 0
 spring:
   application:
-    name: APP-UI
-    title: Media QA User Frontend.
+    name: APP-GATEWAY
+    title: Media QA App Gateway.
 eureka:
   instance:
     prefer-ip-address: true

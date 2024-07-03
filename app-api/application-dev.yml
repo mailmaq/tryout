@@ -3,7 +3,7 @@ server:
 spring:
   application:
     name: APP-API
-    title: Media Development User Frontend.
+    title: Media Development API Backend.
 eureka:
   instance:
     prefer-ip-address: true
